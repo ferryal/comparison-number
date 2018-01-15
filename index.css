@@ -1,0 +1,16 @@
+body {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  
+  padding: 0;
+}
+
+.form-calc {
+  padding-left: 20px;
+  border: 2px solid #696969;
+}
+
+.form-manipulation {
+  border: 2px solid #696969;
+}
